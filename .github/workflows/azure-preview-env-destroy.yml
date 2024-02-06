@@ -1,4 +1,4 @@
-name: Azure - Destroy Preview Env
+[![Azure - Destroy Preview Env](https://github.com/github/docs/actions/workflows/azure-preview-env-destroy.yml/badge.svg?branch=main)](https://github.com/github/docs/actions/workflows/azure-preview-env-destroy.yml)name: Azure - Destroy Preview Env
 
 # **What it does**: Destroys resources associated with a PRs Azure preview environment
 # **Why we have it**: Closed PRs don't need apps
